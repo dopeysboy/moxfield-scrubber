@@ -9,6 +9,10 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+# results from running the script
+/decklists/
+results.csv
+output_urls
 
 # Used by dotenv library to load environment variables.
 # .env
